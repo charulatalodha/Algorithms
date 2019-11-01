@@ -1,0 +1,34 @@
+Charulatas-MacBook-Pro:src charulatalodha$ java Greedy
+how many objects7
+enter profit value & weight
+10 2
+5 3
+15 5
+7 7
+6 1
+18 4
+3 1
+
+ Enter your choice
+1:max profit 2: min-weight 3:Profit/Weight ratio 4:exit1
+enter capacity
+15
+profit=47.0
+==================
+
+Enter your choice
+1:max profit 2: min-weight 3:Profit/Weight ratio 4:exit2
+enter capacity
+15
+profit=54.0
+==================
+
+Enter your choice
+1:max profit 2: min-weight 3:Profit/Weight ratio 4:exit3
+enter capacity
+15
+profit=55.33333333333333
+==================
+
+Enter your choice
+1:max profit 2: min-weight 3:Profit/Weight ratio 4:exit4
