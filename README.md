@@ -14,4 +14,9 @@ My Algorithms in JAVA
  Select the objects based on Profit/Weight ratio
  
  -------------------------------------------------- 
- 2.  Prims's Algorithm
+ 2.  Prims's Algorithm 
+  Files used : Prims.java
+ 
+ 3.  Queen's Algorithm
+  Files used : Queens.java
+  
