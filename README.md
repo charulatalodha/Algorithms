@@ -1,7 +1,7 @@
 # Algorithms
 My Algorithms in JAVA
  
- 1. Greedy Algorithm with 3 approach : 
+# 1. Greedy Algorithm with 3 approach : 
  
  Files used: greedy.java, knapsack.java, sort.java, 
  
@@ -14,7 +14,9 @@ My Algorithms in JAVA
  Select the objects based on Profit/Weight ratio
  
  -------------------------------------------------- 
- 2.  Prims's Algorithm | Files used : Prims.java
+ # 2.  Prims's Algorithm | Files used : Prims.java
  
- 3.  Queen's Algorithm | Files used : Queens.java
+ # 3.  Queen's Algorithm | Files used : Queens.java
+ 
+ # 4. Min Heap Algorithm
   
