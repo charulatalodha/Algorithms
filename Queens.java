@@ -20,8 +20,6 @@ public class Queens {
         System.out.println("no.of unique solutions:"+count);
     }
     
-    
-    
     public void placeNqueens(int r, int n) 
     {  
         for (int c = 0; c < n; c++)
@@ -40,7 +38,9 @@ public class Queens {
         
     }
     
-    
+    /*
+    * To check if the queen can be placed at (r,c)
+    */
     public boolean canPlaceQueen(int r, int c) 
     {   //check for each row, if the Queen can be placed there
         for (int i = 0; i < r; i++) 
@@ -54,6 +54,9 @@ public class Queens {
         return true;
     }
 
+    /*
+    * To print the solution of placing 'N' Queens on 'N*N' Board
+    */
     public void printQueens(int[] x) {
         int N = x.length;
         count++;
@@ -70,9 +73,4 @@ public class Queens {
         System.out.println();
     }
 
-   
-
-   
-
-   
 }
