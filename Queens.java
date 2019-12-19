@@ -23,7 +23,7 @@ public class Queens {
     
     
     public void placeNqueens(int r, int n) 
-    {  System.out.println("Placing Queen"+r+ " at row="+r);
+    {  
         for (int c = 0; c < n; c++)
         {
             if (canPlaceQueen(r, c)) 
@@ -35,11 +35,7 @@ public class Queens {
                     placeNqueens(r + 1, n);
                 
             }
-            else
-            {
-            	
-            	  System.out.println(" Queen"+r+" cannot be placed in row="+r+" column="+c);
-            }
+            
         }
         
     }
