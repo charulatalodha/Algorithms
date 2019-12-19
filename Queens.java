@@ -42,9 +42,10 @@ public class Queens {
     
     
     public boolean canPlaceQueen(int r, int c) 
-    {
+    {   //check for each row, if the Queen can be placed there
         for (int i = 0; i < r; i++) 
         {
+            // check for same column and diagonal conditions
             if (x[i] == c || (i - r) == (x[i] - c) ||(i - r) == (c - x[i])) 
             {
                 return false;
